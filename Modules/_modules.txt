@@ -1,0 +1,6 @@
+install or copy PowerCLI module here.
+
+Install-Module -Name Vmware.Powercli
+Install-Module -Name VMware.Hv.Helper
+Save-Module -Name Vmware.Powercli -Path <path_to_here>
+Save-Module -Name VMware.Hv.Helper -Path <path_to_here>
